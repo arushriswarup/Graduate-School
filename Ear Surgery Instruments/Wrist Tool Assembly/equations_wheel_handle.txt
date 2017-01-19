@@ -1,4 +1,4 @@
-﻿"Do"=7.5mm
+﻿"Do"=8.5mm
 "Lo"=10
 "screw_diam" = 3.5mm
 "wheel_Do"=12.5mm
@@ -19,3 +19,4 @@
 "arm_thickness"=4.5
 "wheel_total_diam"=30
 "spring_diam"=4.1
+"collet_length" = 18.75mm
