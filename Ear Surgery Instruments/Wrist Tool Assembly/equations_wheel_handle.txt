@@ -20,3 +20,4 @@
 "wheel_total_diam"=30
 "spring_diam"=4.1
 "collet_length" = 18.75mm
+"tip_length" = 40mm
