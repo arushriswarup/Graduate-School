@@ -22,4 +22,4 @@
 "collet_length" = 18.75mm
 "tip_length" = 40mm
 "cable_tube_OD"=0.508
-
+"cable_OD" = 0.3mm
