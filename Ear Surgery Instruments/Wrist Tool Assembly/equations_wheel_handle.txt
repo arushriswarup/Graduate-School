@@ -1,4 +1,15 @@
-﻿"Do"=8.5mm
+﻿"Ro"= 0.622mm
+"H"= 2
+"G"= 0.8
+"Ang"=15
+"Bend_Ang"= 55
+"Rad_comp"=0.3
+"H_m"= 0.85
+"Fillet_inner"=0.0968091
+"Taper"= 0.35
+"T"= 0.163
+"Slit_w"=0.02
+"Do"=8.5mm
 "Lo"=10
 "screw_diam" = 3.5mm
 "wheel_Do"=12.5mm
@@ -23,3 +34,4 @@
 "tip_length" = 40mm
 "cable_tube_OD"=0.508
 "cable_OD" = 0.3mm
+"Rc" = 1.45mm
